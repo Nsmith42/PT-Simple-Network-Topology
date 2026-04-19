@@ -9,20 +9,20 @@ Switch 1 – 3650-24PS Cisco Switch
 User Devices: 
 -	Laptop 1
   -	Connected to Switch 1 via Copper ST ethernet cable
-  -	Connected via FastEthernet0 (Laptop 1) to GigabitEthernet1/0/1
-  -	Static IP - 192.168.1.1
-  -	Subnet Mask - 255.255.255.0
-  -	MAC address - 0001.C9E5.BCDD
-  -	Default Gateway - 192.168.1.254
-  -	DNS Server – 8.8.8.8 (Google)
+    -	Connected via FastEthernet0 (Laptop 1) to GigabitEthernet1/0/1
+    -	Static IP - 192.168.1.1
+    -	Subnet Mask - 255.255.255.0
+    -	MAC address - 0001.C9E5.BCDD
+    -	Default Gateway - 192.168.1.254
+    -	DNS Server – 8.8.8.8 (Google)
 -	Laptop 2
   -	Connected to Switch 1 via Copper ST ethernet cable
-  -	Connected via FastEthernet0 (Laptop 2) to GigabitEthernet1/0/2
-  -	Static IP - 192.168.1.2
-  -	Subnet Mask - 255.255.255.0
-  -	MAC address - 000B.BEDC.D990
-  -	Default Gateway - 192.168.1.254
-  -	DNS Server – 8.8.8.8 (Google)
+    -	Connected via FastEthernet0 (Laptop 2) to GigabitEthernet1/0/2
+    -	Static IP - 192.168.1.2
+    -	Subnet Mask - 255.255.255.0
+    -	MAC address - 000B.BEDC.D990
+    -	Default Gateway - 192.168.1.254
+    -	DNS Server – 8.8.8.8 (Google)
 
 Notes:
 -	Depending on laptop model and age, you can connect with USB-C/USB-to-Ethernet adaptor or built-in ethernet interface on laptop
