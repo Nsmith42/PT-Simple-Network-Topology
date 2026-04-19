@@ -29,5 +29,6 @@ Notes:
 -	In this demonstration, devices do not have a dynamic IP address
 -	Pinging either Laptop 1 or Laptop 2 results in a Reply
 
+<img width="924" height="222" alt="image" src="https://github.com/user-attachments/assets/0b5763ad-ce2b-41e8-b01f-be41d7ffdc1e" />
 
 
